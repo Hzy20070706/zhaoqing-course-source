@@ -6,3 +6,13 @@
 cd (C:\Users\Administrator\Desktop\肇庆学院抢课) 括号内是我的文件夹，包含抢课.py的上一层文件夹，你要替换成你自己的文件夹位置，你要是敢直接复制我就草尼玛，问问题我就草泥马。
 python 抢课.py (这个也是指令)
 两个要一起使用
+
+
+
+
+
+我的原始指令:
+cd C:\Users\Administrator\Desktop\肇庆学院抢课
+python 抢课.py
+
+不懂得去问豆包我草泥马的
